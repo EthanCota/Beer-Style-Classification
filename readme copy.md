@@ -1,0 +1,1 @@
+This is a team project where we build a classifiction model to predict the style of beer based off of review data. More information in 'report.pdf'.
